@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{57e90a85-6448-5c36-a718-768b4da8c269}</ProjectGuid>
+    <ProjectGuid>{acd0b0a6-c884-97e8-48be-497f0c1fc3db}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.PathTracing.Editor.Tests</AssemblyName>
@@ -473,7 +473,7 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:\Users\김시우\My project\Library\PackageCache\com.unity.ext.nunit@d8c07649098d\net40\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>C:\Users\김시우\Documents\GitHub\10504_-\Library\PackageCache\com.unity.ext.nunit@d8c07649098d\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -853,27 +853,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{55d9e1f3-ec3a-089b-ae6d-867dca9df752}</Project>
+      <Project>{320ed479-1217-c9c4-6b66-1a4007456ec2}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{5baa6ff2-6ea2-f86b-07b2-ff7d37e8c3c2}</Project>
+      <Project>{289d59fd-4e7f-e396-9d54-5fd8bb0038ca}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.UnifiedRayTracing.Runtime.csproj">
-      <Project>{8d2db820-6115-498d-5976-6ff0cbb8467d}</Project>
+      <Project>{aed3c33b-28e1-9ea1-3477-ccf5a8630218}</Project>
       <Name>Unity.UnifiedRayTracing.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.PathTracing.Runtime.csproj">
-      <Project>{58e7f778-f217-5183-7b0b-a7aac4ac0b89}</Project>
+      <Project>{fe37e506-0ee4-a35c-a6e9-02f1172508d1}</Project>
       <Name>Unity.PathTracing.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{6a017c06-df9b-ce7d-2e59-c851bcb7cd88}</Project>
+      <Project>{6f293555-e89a-45d8-9747-b610c52a74f7}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{a72cac03-01af-34fe-84b6-7ce92cf47147}</Project>
+      <Project>{67d8aa0f-381a-8045-c3c6-a820ec1974c8}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

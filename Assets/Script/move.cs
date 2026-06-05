@@ -105,6 +105,23 @@ public class move : MonoBehaviour
         {
             jumpBufferCounter -= Time.deltaTime;
         }
+        // 가속기
+         if (Input.GetKey(KeyCode.U))
+         { 
+            maxSpeed = 13f;
+            rigid.mass = 1.75f;
+            jumpPower = 6f;
+            movePower = 0.12f;
+            
+         }
+         // 평소
+         else
+         {
+            maxSpeed = 6.5f;
+            rigid.mass = 1f;
+            jumpPower = 4f;
+            movePower = 0.15f;
+         }
     }
 
     void FixedUpdate()

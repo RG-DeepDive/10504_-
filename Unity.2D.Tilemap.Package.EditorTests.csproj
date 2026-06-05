@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{df195357-8825-d56d-a51c-e7920739be8b}</ProjectGuid>
+    <ProjectGuid>{129d6e13-9e99-f254-838b-59e717842e12}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Tilemap.Package.EditorTests</AssemblyName>
@@ -470,7 +470,7 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:\Users\김시우\My project\Library\PackageCache\com.unity.ext.nunit@d8c07649098d\net40\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>C:\Users\김시우\Documents\GitHub\10504_-\Library\PackageCache\com.unity.ext.nunit@d8c07649098d\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -850,15 +850,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2D.Tilemap.Editor.csproj">
-      <Project>{f12b7d94-eb23-f68d-4cbd-89add40313f6}</Project>
+      <Project>{2681b6d7-d9a8-fd34-9a19-7f347c1d6d0d}</Project>
       <Name>Unity.2D.Tilemap.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{6a017c06-df9b-ce7d-2e59-c851bcb7cd88}</Project>
+      <Project>{6f293555-e89a-45d8-9747-b610c52a74f7}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{a72cac03-01af-34fe-84b6-7ce92cf47147}</Project>
+      <Project>{67d8aa0f-381a-8045-c3c6-a820ec1974c8}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

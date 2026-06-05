@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{545c727a-a79d-ef01-38b1-8ade810b3680}</ProjectGuid>
+    <ProjectGuid>{4afec5ec-6ade-ad19-42bd-5dc68663ffad}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.Core.Editor.Tests</AssemblyName>
@@ -521,7 +521,7 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:\Users\김시우\My project\Library\PackageCache\com.unity.ext.nunit@d8c07649098d\net40\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>C:\Users\김시우\Documents\GitHub\10504_-\Library\PackageCache\com.unity.ext.nunit@d8c07649098d\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -901,35 +901,35 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{5baa6ff2-6ea2-f86b-07b2-ff7d37e8c3c2}</Project>
+      <Project>{289d59fd-4e7f-e396-9d54-5fd8bb0038ca}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
-      <Project>{0f9fa3e1-304a-5d41-6e5b-260a641c1597}</Project>
+      <Project>{d76845cd-bf40-8bd6-3872-c539c8cb8eb7}</Project>
       <Name>Unity.RenderPipelines.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{55d9e1f3-ec3a-089b-ae6d-867dca9df752}</Project>
+      <Project>{320ed479-1217-c9c4-6b66-1a4007456ec2}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.GPUDriven.Runtime.csproj">
-      <Project>{ed2c9c1a-0d5a-7c18-8bad-9195afea4e83}</Project>
+      <Project>{e4e11463-0602-11c3-9935-28c32598b928}</Project>
       <Name>Unity.RenderPipelines.GPUDriven.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{940cbcb7-89de-99fa-96bb-1ea80f988fa5}</Project>
+      <Project>{07f315f0-42d3-f17b-7c90-e61adb401edb}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.Tests.csproj">
-      <Project>{43f0df8a-baac-863c-ccaf-610477212865}</Project>
+      <Project>{72df50d1-440e-2182-56f5-2b254bafb4f7}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime.Tests</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{6a017c06-df9b-ce7d-2e59-c851bcb7cd88}</Project>
+      <Project>{6f293555-e89a-45d8-9747-b610c52a74f7}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{a72cac03-01af-34fe-84b6-7ce92cf47147}</Project>
+      <Project>{67d8aa0f-381a-8045-c3c6-a820ec1974c8}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
