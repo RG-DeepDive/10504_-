@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - gold
+  - silver
+  - bronze
   layers:
   - Default
   - TransparentFX
@@ -14,7 +17,7 @@ TagManager:
   - UI
   - arrow
   - enemy
-  - 
+  - coin
   - 
   - 
   - 

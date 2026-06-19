@@ -34,7 +34,8 @@ public class arrow : MonoBehaviour
 
     void Start()
     {
-        Destroy(gameObject, 5f);
+        //일정시간이 지나면 맵에서 화살 지우기
+        Destroy(gameObject, 15f);
     }
 
 }
